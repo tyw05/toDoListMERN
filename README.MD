@@ -15,7 +15,7 @@
 ## About The Project
 
 <p align="center">
-<img src="https://github.com/tyw05/toDoListMERN/assets/120542125/f0c13b27-c9b0-492a-8083-ba57046548b2" height="200">
+<img src="https://github.com/tyw05/toDoListMERN/assets/120542125/f0c13b27-c9b0-492a-8083-ba57046548b2" height="700">
 </p>
 
 <br/>
