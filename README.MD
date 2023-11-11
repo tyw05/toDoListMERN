@@ -13,9 +13,9 @@
 </details>
 
 ## About The Project
-<label align="center">
-![login](https://github.com/tyw05/toDoListMERN/assets/120542125/f0c13b27-c9b0-492a-8083-ba57046548b2)
-</label>
+
+<img src="https://github.com/tyw05/toDoListMERN/assets/120542125/f0c13b27-c9b0-492a-8083-ba57046548b2" width="80" height="80" align="center">
+
 <br/>
 This project is a to-do list implemented with MERN stack. The users can create and login to their accounts, the username and password will be stored in the database.
 The password is encryped into a passwordHash and will be secured in the database. 
