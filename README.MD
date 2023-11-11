@@ -24,7 +24,13 @@ The password is encryped into a passwordHash and will be secured in the database
 After they login, a token will be generated for the valid user and they can create, edit or remove their tasks in their list.
 The modification to the tasks will also be retained in the database.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Built With
+
+Here are the technologies utilized in this project.
+
+* [![React][React.js]][React-url]
 
 
 
