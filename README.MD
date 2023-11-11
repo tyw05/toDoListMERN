@@ -43,7 +43,6 @@ Here are the technologies utilized in this project.
 
 
 
-Find demo on https://todolist-2mdv.onrender.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
