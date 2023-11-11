@@ -77,11 +77,11 @@ to rebuild the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
-1. Clone the repo
+1.Clone the repo
    ```sh
    git clone https://github.com/tyw05/toDoListMERN/tree/main
    ```
-2. Install NPM packages
+2.Install NPM packages
    ```sh
    npm install
    ```
