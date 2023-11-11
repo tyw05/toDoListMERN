@@ -1,12 +1,12 @@
 import PropTypes from 'prop-types'
 
-const Save = ({ editTask }) => {
+const Save = ({ saveTask }) => {
   return (
     <svg
       className="hover:fill-yellow-500 inline-block h-16 w-8 py-4"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
-      onClick={editTask}
+      onClick={saveTask}
     >
       <g data-name="Layer 2">
         <g data-name="save">
@@ -19,7 +19,7 @@ const Save = ({ editTask }) => {
 };
 
 Save.propTypes = {
-  editTask: PropTypes.func
+  saveTask: PropTypes.func
 }
 
 export default Save;

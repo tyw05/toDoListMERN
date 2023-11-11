@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 const Remove = ({ removeTask }) => {
     return (
         <svg
-            className="hover:fill-yellow-500 inline-block h-16 w-8 py-4 pr-1"
+            className="hover:fill-yellow-500 inline-block h-16 w-8 py-4 p-1 "
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
             onClick={removeTask}
