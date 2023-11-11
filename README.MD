@@ -56,7 +56,7 @@ Here are the technologies utilized in this project.
 * [![Node][Node.js]][Node-url]
 * [![Vite][Vite.js]][Vite-url]
 * [![Tailwind][TailwindCSS]][Tailwind-url]
-* [![Render][RenderDeploy][Render-url]
+* [![Render][RenderDeploy]][Render-url]
 ## Getting Started 
 
 If you want to run this locally, follow these steps.
