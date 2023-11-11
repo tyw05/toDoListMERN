@@ -95,6 +95,8 @@ to rebuild the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Acknowledgments
+   * [CSS][https://codepen.io/rayc2045/pen/LYWKMOK]
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
