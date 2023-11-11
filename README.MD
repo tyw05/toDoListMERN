@@ -56,7 +56,7 @@ Here are the technologies utilized in this project.
 * [![Node][Node.js]][Node-url]
 * [![Vite][Vite.js]][Vite-url]
 * [![Tailwind][TailwindCSS]][Tailwind-url]
-
+* [![Render][Render-url]
 ## Getting Started 
 
 If you want to run this locally, follow these steps.
@@ -126,3 +126,5 @@ to rebuild the project.
 [Tailwind-url]: https://tailwindcss.com/
 [Vite.js]: https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
+[Render]:https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white
+[Render-url]: https://render.com/
