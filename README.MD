@@ -40,7 +40,7 @@ The password is encryped into a passwordHash and will be secured in the database
 
 ![to-do-list](https://github.com/tyw05/toDoListMERN/assets/120542125/41d87f4b-d494-4c87-9952-5071eb21f589)
 <br/>
-After they login, a token will be generated for the valid user and they can create, edit or remove their tasks in their list.
+After they logged in, a token will be generated for the valid user and they can create, edit or remove their tasks in their list.
 They can mark the tasks as finished and change the displayed tasks using the filter options.
 The modification to the tasks will also be retained in the database.
 
