@@ -20,8 +20,8 @@
   <li>
     <a href="getting-started">Getting Started</a>
     <ul>
-      <li><a href="#frontend">Prerequisites</a></li>
-      <li><a href="#backend">Prerequisites</a></li>
+      <li><a href="#frontend">FrontEnd</a></li>
+      <li><a href="#backend">BackEnd</a></li>
       <li><a href="#installation">Installation</a></li>
     </ul>
   </li>
