@@ -41,8 +41,58 @@ Here are the technologies utilized in this project.
 * [![Vite][Vite.js]][Vite-url]
 * [![Tailwind][TailwindCSS]][Tailwind-url]
 
+## Getting Started 
 
+If you want to run this locally, follow these steps.
 
+### FrontEnd
+
+To test the frontend, 
+* npm 
+```sh
+npm install npm run dev
+```
+Note that you should start the backend server to use the login function
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### BackEnd
+
+Since the frontend had already been build as a static page in backend folder, you can directly run the following to observe the fullstack implementation.
+
+*npm
+```sh 
+npm install npm start
+```
+
+For any modification in frontend, you can run 
+
+*npm
+```sh
+npm run build:ui
+```
+
+to rebuild the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/tyw05/toDoListMERN/tree/main
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+3.Environment variables are needed to run the backend locally. Add .env with the following,
+```sh
+MONGO_URI = YOUR_URI
+PORT = YOUR_PORT
+SECRET = SECRET
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
