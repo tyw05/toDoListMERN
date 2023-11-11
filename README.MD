@@ -7,7 +7,7 @@
 </p>
 <a href="https://todolist-2mdv.onrender.com"><strong>View the demo</strong></a>
 <br/>
-username: testing password: testing
+Username: testing Password: testing
 </div>
 
 <details>
