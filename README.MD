@@ -2,9 +2,9 @@
 <br/>
 <div align="center">
 <h3 align="center"> MERN To-Do List </h3>
-
 <p aligb="center">
   A To-Do List app implemented using MERN Stack.
+</p>
 <a href="https://todolist-2mdv.onrender.com"><strong>View the demo</strong></a>
 </div>
 
