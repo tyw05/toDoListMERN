@@ -85,13 +85,14 @@ to rebuild the project.
    ```sh
    npm install
    ```
-
+   
 3.Environment variables are needed to run the backend locally. Add .env with the following,
-```sh
-MONGO_URI = YOUR_URI
-PORT = YOUR_PORT
-SECRET = SECRET
-```
+   ```sh
+   MONGO_URI = YOUR_URI
+   PORT = YOUR_PORT
+   SECRET = SECRET
+   ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
