@@ -1,4 +1,4 @@
-# A To-Do List implemented using MERN stack (MongoDB, Express, React, Node.js)
+# A To-Do List implemented using MERN stack 
 
 Through creating and logging in your account, you can perform any modifications (add, edit, remove) to the tasks in your own to-do list.
 
