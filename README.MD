@@ -50,8 +50,6 @@ The modification to the tasks will also be retained in the database.
 
 ### Built With
 
-Here are the technologies utilized in this project.
-
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Express][Express.js]][Express-url]
 * [![React][React.js]][React-url]
